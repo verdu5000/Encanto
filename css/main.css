@@ -1,0 +1,16 @@
+html,body{
+  background-image: url('../imagenes/bola.jpg');
+  height: auto;
+  width: auto;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+
+}
+
+
+#nosotros{
+  padding-top:800px;
+  webkit-block
+}
